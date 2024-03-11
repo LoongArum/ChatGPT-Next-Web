@@ -1,14 +1,14 @@
 {
-  "name": "法学聊天",
-  "short_name": "法学聊天",
+  "name": "百科问答",
+  "short_name": "百科问答",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "/chat192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "/chat512.png",
       "sizes": "512x512",
       "type": "image/png"
     }

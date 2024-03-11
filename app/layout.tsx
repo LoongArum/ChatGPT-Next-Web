@@ -10,8 +10,8 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "法学聊天",
-  description: "你占有的法学聊天",
+  title: "百科问答",
+  description: "你占有的百科问答",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "法学聊天",
+    title: "百科问答",
     statusBarStyle: "default",
   },
 };
